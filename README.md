@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omid</h1>
-<h3 align="center">A Game Designer and Game Developer from Iran</h3>
+<h3 align="center">A Game Designer and Developer from Iran</h3>
 
 - 🔭 I’m currently working on an online casual game (Lord of coins)
 
